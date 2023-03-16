@@ -230,6 +230,10 @@ header .fa-bars{
     font-family: raleway;
 }
 
+.about .row .content li{
+    font-family: raleway;
+}
+
 .about .box-container{
     display: flex;
     align-items: center;
